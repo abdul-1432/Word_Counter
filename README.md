@@ -2,6 +2,8 @@
 
 Word Counter is a simple web application that allows users to count the number of words in a text input. This project is built using HTML, CSS, and JavaScript and is designed to be easy to understand and modify.
 
+![1](https://github.com/abdul-1432/Word_Counter/assets/124916666/5bd11903-3ba4-4af8-aa48-91fc377296f3)
+
 ## Features
 
 - Input field for users to enter text.
