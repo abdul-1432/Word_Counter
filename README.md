@@ -16,7 +16,7 @@ To get started with Word Counter, follow these instructions:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/word-counter.git
+   git clone https://github.com/abdul-1432/Word_Counter
    ```
 
 2. Open the project folder in your code editor.
