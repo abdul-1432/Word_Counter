@@ -57,10 +57,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or need further assistance, feel free to contact the project maintainer:
 
-[Your Name](mailto:your.email@example.com)
+[gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com)
 
-## Demo
-
-You can check out a live demo of Word Counter [here](https://your-username.github.io/word-counter/).
 
 Enjoy using Word Counter!
