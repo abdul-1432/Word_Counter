@@ -27,7 +27,7 @@ To get started with Word Counter, follow these instructions:
 
 1. Enter or paste your text into the input field.
 
-2. The word count will be updated in real-time as you type or edit the text.
+2. The word count will be updated in real time as you type or edit the text.
 
 3. To clear the input field and word count, click the "Clear" button.
 
@@ -35,7 +35,7 @@ To get started with Word Counter, follow these instructions:
 
 You can easily customize the appearance and behavior of Word Counter by modifying the provided HTML, CSS, and JavaScript files.
 
-- **HTML (`index.html`):** You can change the layout, structure, or add additional elements as needed.
+- **HTML (`index.html`):** You can change the layout, and structure, or add additional elements as needed.
 
 - **CSS (`style.css`):** Modify the CSS to change the visual styling of the application. You can update colors, fonts, and layout styles.
 
@@ -47,7 +47,7 @@ Contributions to Word Counter are welcome! If you have any improvements or new f
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please take a look at the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
